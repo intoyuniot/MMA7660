@@ -1,0 +1,16 @@
+{
+    "name": "MMA7660",
+    "version": "1.0.0",
+    "keywords": "MMA7660",
+    "description": "MMA7660加速度计库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/MMA7660.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
